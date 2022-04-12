@@ -1,0 +1,50 @@
+div {
+  width: 250px;
+  height: 250px;
+}
+
+h1{
+  height: 100px;
+  width: 100rem;
+  padding-top: 75px;
+  background-color: #457b9d;
+  text-align: center;
+}
+
+
+#one {
+
+  background-color: #e63946;
+  border: 2px solid black;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-left: 5%;
+
+}
+
+#two {
+  background-color: #f1faee;
+  border: 2px dotted black;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-left: 5%;
+
+}
+
+#three {
+  border: 2px solid black;
+  border-radius: 10%;
+  display: inline-block;
+  margin-left: 5%;
+
+
+}
+
+div span {
+  margin-left: 35px;
+  text-align: center;
+}
+
+button{
+  padding: 0px 20px;
+}

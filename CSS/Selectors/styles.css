@@ -40,3 +40,7 @@ h2 + button {
 button:active{
   background-color: green;
 }
+
+button:hover {
+  background-color: olive;
+}
